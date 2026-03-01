@@ -1,0 +1,6 @@
+r
+h
+loadbin gcc/fsm_code.bin, 0
+r
+g
+exit
